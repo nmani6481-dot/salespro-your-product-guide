@@ -1,0 +1,4 @@
+project_id = "kmxjmnwzjysakfsyftfc"
+
+[functions.sales-chat]
+verify_jwt = false
